@@ -14,7 +14,7 @@ In this project, we clone a website named “Indeed.com” this is aggregates jo
  * <a href='https://github.com/ashishdwivedi447' >Ashish Kumar Dwivedi</a>
  * <a href='https://github.com/Akhil2014' >Akhil Khan</a>
  * <a href='https://github.com/123bhagesh' >Bhagesh Madavi</a>
- * <a href='https://github.com/baluramk6' >Balu Kumar</a>
+ * <a href='https://github.com/baluramk6' >Balu Kumawat</a>
 
 ### Tech Stack:
  * React.
